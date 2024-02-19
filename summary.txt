@@ -1,0 +1,15 @@
+Wyze cameras let some owners see into a stranger’s home — again
+En un incidente de seguridad, usuarios de cámaras Wyze pudieron ver brevemente en propiedades ajenas por fallas en la app. La empresa identificó el problema, relacionándolo con la sobrecarga de servidores tras un apagón en AWS, y asegura que no se compartieron videos, solo imágenes. Se tomaron medidas y se espera notificar a los usuarios afectados para evitar futuros problemas de seguridad.
+
+Apple fans are starting to return their Vision Pros
+Algunos compradores del Apple Vision Pro ya están devolviendo los auriculares de realidad aumentada de $3,500 debido a problemas de comodidad como dolores de cabeza y mareos. También se han mencionado problemas de productividad y falta de aplicaciones atractivas. La falta de personalización y adaptación a las necesidades individuales juega en contra de la experiencia del usuario. A pesar de las críticas, muchos esperan mejoras en futuras versiones del producto.
+
+The shine comes off the Vision Pro
+Usuarios devolverían auriculares Apple Vision Pro por problemas de usabilidad y privacidad, sugiriendo mejoras necesarias en la tecnología de auriculares. Se comenta Mark Zuckerberg como crítico de gadgets. Hablan sobre estrategias para dispositivos de realidad aumentada, novedades de Xbox y lanzamientos de inteligencia artificial de Google y OpenAI. También discuten una polémica con el streaming del Super Bowl.
+
+The text file that runs the internet
+Durante tres décadas, el archivo robots.txt ha sido fundamental para regular el acceso a sitios web, permitiendo a los propietarios decidir qué bots pueden acceder. Con la aparición de IA y la necesidad de grandes conjuntos de datos para modelos de entrenamiento, los propietarios se enfrentan a decisiones cruciales sobre quién puede acceder a su información. A pesar de su importancia, robots.txt sigue dependiendo de la buena voluntad de todos los involucrados, ya que legalmente no tiene peso. El futuro plantea desafíos para equilibrar la protección de los datos con la evolución tecnológica.
+
+I printed chocolate on a 3D printer and ate it
+¡Ya se puede comprar una impresora 3D de chocolate! Con la Cocoa Press puedes hacer increíbles creaciones de chocolate, aunque controlar la temperatura y velocidad de impresión puede ser complicado. Ideal para expertos en 3D y amantes del chocolate, pero no tanto para principiantes.
+
